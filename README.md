@@ -1,3 +1,4 @@
 # NYT-API Analysis Project
+###Ellie Newman, Dante Gil-Marin
 Preliminary code for a media analysis project using data from the New York Times API. Includes basic visualizations and natural language processing. 
 *Note: API key missing from the code
